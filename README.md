@@ -1,14 +1,13 @@
-# Projeto de Efeitos e Animações
+# Effects and Animations Project
 
-Este projeto contém uma série de efeitos de transição e animações CSS para melhorar a experiência visual de uma página web. As animações incluem efeitos de deslizamento, transições rápidas e uma interface interativa para o usuário.
+This project contains a series of transition effects and CSS animations to enhance the visual experience of a webpage. The animations include sliding effects, quick transitions, and an interactive user interface.
 
-## Funcionalidades
+## Features
 
-- Efeitos de transição para menus, navegação e elementos de página.
-- Animações de deslizamento para diferentes seções da página.
-- Efeitos rápidos e suaves para melhorar a interação com o usuário.
+- Transition effects for menus, navigation, and page elements.
+- Sliding animations for different sections of the page.
+- Quick and smooth effects to improve user interaction.
 
-## Observação
+## Note
 
-Este é um protótipo inicial, e um **novo PORTIFOLIO** mais atualizado será criado em breve, incluindo detalhes mais precisos sobre as implementações, melhorias no código e futuras atualizações do projeto.
-
+"This is an initial prototype, and a new, more updated PORTFOLIO will be created soon, including more precise details about deployments, code improvements, and future updates to the project."
